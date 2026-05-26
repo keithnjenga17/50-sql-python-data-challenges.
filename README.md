@@ -1,5 +1,5 @@
-# 50-sql-python-data-challenges.
-50 challenges solving SQL and Python data analysis problems to build practical analytics skills and document real-world data workflows
+sql-python-data-challenges.
+Challenges solving SQL and Python data analysis problems to build practical analytics skills and document real-world data workflows
 ## Overview
 This repository documents my 50-day challenge focused on improving practical data analysis skills using SQL and Python.
 
